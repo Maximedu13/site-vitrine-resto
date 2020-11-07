@@ -34,7 +34,7 @@ header span::before{
 
 @keyframes replace {
     0% { content: 'Vos papilles vous remercieront.'}
-    25% { content: 'Satisfaisez votre partenaire.'}
+    25% { content: 'Satisfaîtes votre partenaire.'}
     50% { content: 'Émerveillez vos amis.'}
     75% { content: 'Gâtez vos enfants.'}
     100% { content: 'Impressionnez votre supérieur-e.'}
@@ -112,7 +112,16 @@ article p{
     top: 0px;
 }
 
+#more{
+    margin-bottom: 10%;
+    
+}
 
+#more h2{
+    text-align: center;
+    font-family: 'Cormorant SC';
+    font-size: 40px;
+}
 
 footer{
     color: white;
