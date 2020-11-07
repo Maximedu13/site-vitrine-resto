@@ -21,7 +21,7 @@ header img{
 
 header span{
     position: absolute;
-    top: 45%;
+    top: 42.5%;
     right: 10%;
     font-family: 'Great Vibes', cursive;
     font-size: 180%;
@@ -62,6 +62,7 @@ article{
 
 #first-article{
     font-family: 'Cormorant SC';
+    position: relative;
     background: url("https://www.bocadolobo.com/blog/wp-content/uploads/2017/12/luxury-restaurants-in-Paris-maison-et-objet.jpg")
 }
 
@@ -82,8 +83,19 @@ article p{
     margin-bottom: 5%;
 }
 
-.title-left{
-    transform: rotate(360deg);
+.title-top{
+    font-size: 50px;
+    position: absolute;
+    top: -15%;
+    right: 0;
+}
+
+.title-right{
+    font-size: 50px;
+    position: absolute;
+    transform: rotate(90deg);
+    top: 20%;
+    right: -21.5%;
 }
 
 footer{
@@ -98,3 +110,4 @@ footer a{
     text-decoration: none;
     color: white;
 }
+
