@@ -175,6 +175,11 @@ footer {
     background-color: #1b1811;
     position: fixed;
     bottom: 0;
+    font-family: 'Cormorant SC';
+    font-weight: bolder;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 footer a {
