@@ -1,1 +1,1 @@
-[a link](https://maximedu13.github.io/site-vitrine-resto/)
+[Lien du site](https://maximedu13.github.io/site-vitrine-resto/)
