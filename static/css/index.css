@@ -86,8 +86,8 @@ article {
 }
 
 #second-article {
-    background: url("https://www.yonder.fr/sites/default/files/styles/lg-insert_nocaption/public/contenu/destinations/01-play-restaurant-lounge-dubai.jpg?itok=nmv8gQdK");
-    background-position: bottom;
+    background: url("https://www.yonder.fr/sites/default/files/destinations/slider%20restaurant%20troisgros.jpg");
+    background-size: cover;
 }
 
 #third-article {
